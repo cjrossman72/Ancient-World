@@ -6,7 +6,7 @@
     "replaces": "Great Admiral",
     "uniqueTo": "Shoshone",
     "uniques": [
-      "When defeating a [Water] unit, earn [25] Gold and recruit it <for [{Military} {Water}] units>",
+      "When defeating a [Water] unit, earn [25] Gold and recruit it",
       "[1] additional attacks per turn <for [Water] units>",
       "May heal outside of friendly territory <for [Water] units>",
       "Is part of Great Person group [Admiral]",
