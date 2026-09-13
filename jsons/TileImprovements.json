@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Canal",
+    "terrainsCanBeBuiltOn": [
+      "Plains",
+      "Grassland",
+      "Desert",
+      "Hill",
+      "Tundra",
+      "Snow",
+      "Forest",
+      "Jungle"
+    ],
+    "turnsToBuild": 6,
+    "techRequired": "Sailing",
+    "uniques": [
+      "Can be built outside your borders",
+      "Turn this tile into a [Coast] tile"
+    ]
+  }
+]
