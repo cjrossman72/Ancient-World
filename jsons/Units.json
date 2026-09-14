@@ -15,16 +15,5 @@
       "Unbuildable",
       "Uncapturable"
     ]
-  },
-  {
-    "name": "Dredger",
-    "unitType": "Civilian",
-    "movement": 2,
-    "requiredTech": "Sailing",
-    "uniques": [
-      "Can build [Canal] improvements on tiles",
-      "Automation is a primary action"
-    ],
-    "cost": 70
   }
 ]
