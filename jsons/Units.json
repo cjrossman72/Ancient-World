@@ -3,17 +3,25 @@
     "name": "Fleet Admiral",
     "unitType": "Civilian Water",
     "movement": 8,
-    "replaces": "Great Admiral",
-    "uniqueTo": "Shoshone",
     "uniques": [
-      "When defeating a [Water] unit, earn [25] Gold and recruit it",
-      "[1] additional attacks per turn <for [Water] units>",
-      "May heal outside of friendly territory <for [Water] units>",
+      "Can instantly construct a [Naval Base] improvement <by consuming this unit>",
       "Is part of Great Person group [Admiral]",
       "[This Unit] gets a name from the [Admiral] group",
       "Great Person - [War]",
       "Unbuildable",
       "Uncapturable"
+    ]
+  },
+  {
+    "name": "Repair Ship",
+    "unitType": "Civilian Water",
+    "movement": 4,
+    "cost": 150,
+    "requiredTech": "Sailing",
+    "uniques": [
+      "Cannot enter ocean tiles <before discovering [Sailing]>",
+      "Uncapturable",
+      "All adjacent units heal [5] HP when healing"
     ]
   }
 ]
