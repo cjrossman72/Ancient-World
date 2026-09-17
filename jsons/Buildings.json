@@ -32,8 +32,9 @@
     "happiness": 2,
     "hurryCostModifier": 25,
     "uniques": [
-      "May choose [1] additional [Enhancer] beliefs when [FoundingOrEnhancing] a religion",
-      "[+10]% Natural religion spread [in this city]"
+      "May choose [1] additional belief(s) of any type when [founding] a religion",
+      "[+10]% Natural religion spread [in this city]",
+      "Only available <when religion is enabled>"
     ],
     "requiredTech": "Writing"
   },
@@ -55,7 +56,8 @@
     "name": "Seminary",
     "requiredBuilding": "Monestary",
     "uniques": [
-      "[+20]% Faith cost of generating Great Prophet equivalents"
+      "[+20]% Faith cost of generating Great Prophet equivalents",
+      "Only available <when religion is enabled>"
     ],
     "faith": 2,
     "hurryCostModifier": 50,
