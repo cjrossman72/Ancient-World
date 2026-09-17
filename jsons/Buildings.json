@@ -32,7 +32,7 @@
     "happiness": 2,
     "hurryCostModifier": 25,
     "uniques": [
-      "May choose [1] additional [Enhancer] beliefs when [Enhancing] a religion",
+      "May choose [1] additional [Enhancer] beliefs when [FoundingOrEnhancing] a religion",
       "[+10]% Natural religion spread [in this city]"
     ],
     "requiredTech": "Writing"
