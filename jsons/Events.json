@@ -16,7 +16,7 @@
     ],
     "presentation": "None",
     "uniques": [
-      "Gain [50] Gold",
+      "Gain [50] [Gold]",
       "[City-State unit] gains the [Met Trader] promotion"
     ],
     "conditionals": [

@@ -171,9 +171,9 @@
     "favoredReligion": "Zoroastrianism",
     "uniqueName": "Shepherd ",
     "uniques": [
-      "When conquering an encampment, earn [25] Gold and recruit a Barbarian unit",
-      "[+20]% Production when constructing [Melee] units [in all cities]",
-      "New [Melee] units start with [10] Experience [in all cities]"
+      "Starts with [Animal Husbandry]",
+      "Gain control over [8] tiles [in this city] <upon founding a city>",
+      "Free [Horseman] appears <after discovering [Horseback Riding]>"
     ],
     "cities": [
       "Akkad",
@@ -234,7 +234,8 @@
     ],
     "uniques": [
       "Gain control over [8] tiles [in this city] <upon founding a city>",
-      "Starts with [Animal Husbandry]"
+      "[+20]% Production when constructing [Sword] units [in all cities]",
+      "New [Sword] units start with [15] Experience [in all cities]"
     ]
   }
 ]
