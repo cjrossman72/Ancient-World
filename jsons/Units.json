@@ -21,7 +21,7 @@
     "obsoleteTech": "Acoustics",
     "uniques": [
       "Uncapturable",
-      "Triggers a [Trader Contact] event <when adjacent to a [City-State] unit>\n",
+      "Triggers a [Trader Contact] event <when adjacent to a [Neutral] unit>\n",
       "Can explore automatically",
       "Ignores terrain cost"
     ]

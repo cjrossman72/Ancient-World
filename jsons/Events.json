@@ -10,10 +10,10 @@
     ],
     "uniques": [
       "Gain [50] [Gold]",
-      "[City-State unit] gains the [Met Trader] promotion"
+      "[Neutral] gains the [Met Trader] promotion"
     ],
     "conditionals": [
-      "Only available if [City-State unit] does not have the [Met Trader] promotion"
+      "Only available if [Neutral] does not have the [Met Trader] promotion"
     ]
   }
 ]
