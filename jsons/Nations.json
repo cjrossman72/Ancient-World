@@ -126,7 +126,7 @@
     "uniqueName": "Architecture",
     "uniques": [
       "[+1 Faith] from [Hill] tiles [in all cities]",
-      "May choose [1] additional belief(s) of any type when [Enhancing] a religion",
+      "May choose [1] additional [Follower] beliefs when [founding] a religion",
       "Gain a free [Shrine] [in all cities]"
     ],
     "cities": [
