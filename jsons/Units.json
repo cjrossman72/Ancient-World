@@ -13,15 +13,17 @@
     ]
   },
   {
-    "name": "Repair Ship",
-    "unitType": "Civilian Water",
+    "name": "Trader",
+    "unitType": "Civilian",
     "movement": 4,
     "cost": 150,
-    "requiredTech": "Sailing",
+    "requiredTech": "Trapping",
+    "obsoleteTech": "Acoustics",
     "uniques": [
-      "Cannot enter ocean tiles <before discovering [Sailing]>",
       "Uncapturable",
-      "All adjacent units heal [5] HP when healing"
+      "Triggers a [Trader Contact] event <when adjacent to a [City-State] unit>\n",
+      "Can explore automatically",
+      "Ignores terrain cost"
     ]
   }
 ]

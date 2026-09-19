@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Trader Contact",
+    "text": "Your Trader met a City-State unit and made 50 Gold by trading!",
+    "choices": [
+      {
+        "text": "Accept Trade Gold",
+        "uniques": [
+          "Gain [50] [Gold]",
+          "[Adjacency Target] gains the [Met Trader] promotion"
+        ],
+        "conditionals": [
+          "Only available if [Adjacency Target] does not have the [Met Trader] promotion"
+        ]
+      }
+    ],
+    "presentation": "Notification",
+    "uniques": [
+      "Gain [50] Gold",
+      "[Adjacency Target] gains the [Met Trader] promotion"
+    ],
+    "conditionals": [
+      "Only available if [Adjacency Target] does not have the [Met Trader] promotion"
+    ]
+  }
+]
