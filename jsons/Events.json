@@ -17,7 +17,7 @@
     "presentation": "None",
     "uniques": [
       "Gain [50] Gold",
-      "[Adjacency Target] gains the [Met Trader] promotion"
+      "[City-State unit] gains the [Met Trader] promotion"
     ],
     "conditionals": [
       "Only available if [Adjacency Target] does not have the [Met Trader] promotion"
