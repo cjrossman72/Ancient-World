@@ -2,13 +2,18 @@
   {
     "name": "Sea Peoples",
     "leaderName": "Kukunnis, son of Lukka",
-    "adjective": "Sea People",
-    "startBias": "Coastal",
+    "adjective": [
+      "Sea People"
+    ],
+    "startBias": [
+      "Coast"
+    ],
     "preferredVictoryType": "Domination",
+    "startIntroPart1": "We are the Sea People. we are a group of nine tribes in the Eastern Mediterranean regions originating around 1200 BC during the Late Bronze Age. We are primarily coastal raiders. ",
+    "startIntroPart2": "I am Kukunnis, son of Lukka, leader of the Sea People. Beware of our power and fear us.",
     "declaringWar": "We come from the midst of the sea and none are able to withstand us.",
     "attacked": "Your attack on us will be your death ",
     "defeated": "We bow to your power.",
-    "introduction": "",
     "neutralHello": "We sail the mighty seas looking for new cultures.",
     "hateHello": "The seas are ours! Stay out of the waters.",
     "favoredReligion": "Christianity",
@@ -46,8 +51,12 @@
   {
     "name": "Minoan civilization",
     "leaderName": "King Minos",
-    "adjective": "Minoan",
-    "startBias": "Coastal",
+    "adjective": [
+      "Minoan"
+    ],
+    "startBias": [
+      "Coast"
+    ],
     "preferredVictoryType": "Scientific",
     "declaringWar": "By our strength, we will verthrow thy seed",
     "attacked": "You have shed our blood. Now we will shed yours!",
@@ -89,8 +98,12 @@
   {
     "name": "Lycia",
     "leaderName": "Kuberniskos Sika",
-    "adjective": "",
-    "startBias": "Hills",
+    "adjective": [
+      "Lycian"
+    ],
+    "startBias": [
+      "Hills"
+    ],
     "preferredVictoryType": "Cultural",
     "declaringWar": "No land can stand before our arms",
     "attacked": "An eye dor an eye. Now you die!",
@@ -132,8 +145,12 @@
   {
     "name": "Akkadia",
     "leaderName": "Sargon of Akkad",
-    "adjective": "Akkadian",
-    "startBias": "Grassland",
+    "adjective": [
+      "Akkadian"
+    ],
+    "startBias": [
+      "Grassland"
+    ],
     "preferredVictoryType": "Diplomatic",
     "declaringWar": "We will tear out thy foundations and destroy thy progeny ",
     "attacked": "You dare besiege us! We will go forth to battle and defeat you!",
