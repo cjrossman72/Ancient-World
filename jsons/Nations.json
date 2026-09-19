@@ -3,7 +3,7 @@
     "name": "Sea Peoples",
     "leaderName": "Kukunnis, son of Lukka",
     "adjective": "Sea People",
-    "startBias": "Coast",
+    "startBias": "Coastal",
     "preferredVictoryType": "Domination",
     "declaringWar": "We come from the midst of the sea and none are able to withstand us.",
     "attacked": "Your attack on us will be your death ",
@@ -47,7 +47,7 @@
     "name": "Minoan civilization",
     "leaderName": "King Minos",
     "adjective": "Minoan",
-    "startBias": "Coast",
+    "startBias": "Coastal",
     "preferredVictoryType": "Scientific",
     "declaringWar": "By our strength, we will verthrow thy seed",
     "attacked": "You have shed our blood. Now we will shed yours!",
@@ -90,8 +90,8 @@
     "name": "Lycia",
     "leaderName": "Kuberniskos Sika",
     "adjective": "",
-    "startBias": "Mountain",
-    "preferredVictoryType": "Cultured",
+    "startBias": "Hills",
+    "preferredVictoryType": "Cultural",
     "declaringWar": "No land can stand before our arms",
     "attacked": "An eye dor an eye. Now you die!",
     "defeated": "We lay our swords at your feet.",
@@ -174,18 +174,6 @@
   },
   {
     "name": "Philistia",
-    "cities": [
-      "Ashdod",
-      "Ashkelon",
-      "Gath",
-      "Ekron",
-      "Gaza",
-      "Tell Qasile",
-      "Aphek",
-      "Ziklag",
-      "Be'er Tiveon",
-      "Hurvat Tzror"
-    ],
     "leaderName": "King Iamani of Ashdod",
     "adjective": [
       "Philistine"
@@ -216,6 +204,18 @@
     ],
     "favoredReligion": "Judiasm",
     "uniqueName": "Giants",
+    "cities": [
+      "Ashdod",
+      "Ashkelon",
+      "Gath",
+      "Ekron",
+      "Gaza",
+      "Tell Qasile",
+      "Aphek",
+      "Ziklag",
+      "Be'er Tiveon",
+      "Hurvat Tzror"
+    ],
     "uniques": [
       "Gain control over [8] tiles [in this city] <upon founding a city>",
       "Starts with [Animal Husbandry]"
