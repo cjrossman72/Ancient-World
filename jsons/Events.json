@@ -20,7 +20,7 @@
       "[City-State unit] gains the [Met Trader] promotion"
     ],
     "conditionals": [
-      "Only available if [Adjacency Target] does not have the [Met Trader] promotion"
+      "Only available if [City-State unit] does not have the [Met Trader] promotion"
     ]
   }
 ]

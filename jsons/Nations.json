@@ -10,13 +10,12 @@
     ],
     "preferredVictoryType": "Domination",
     "startIntroPart1": "We are the Sea People. we are a group of nine tribes in the Eastern Mediterranean regions originating around 1200 BC during the Late Bronze Age. We are primarily coastal raiders. ",
-    "startIntroPart2": "I am Kukunnis, son of Lukka, leader of the Sea People. Beware of our power and fear us.",
     "declaringWar": "We come from the midst of the sea and none are able to withstand us.",
     "attacked": "Your attack on us will be your death ",
     "defeated": "We bow to your power.",
     "neutralHello": "We sail the mighty seas looking for new cultures.",
     "hateHello": "The seas are ours! Stay out of the waters.",
-    "favoredReligion": "Christianity",
+    "favoredReligion": "Hellenism",
     "uniqueName": "Pirates",
     "tradeRequest": "Let's make a deal.",
     "declaringfriendship": "Let us become like friends!",
@@ -61,7 +60,6 @@
     "declaringWar": "By our strength, we will verthrow thy seed",
     "attacked": "You have shed our blood. Now we will shed yours!",
     "defeated": "Your power is superior to ours ",
-    "introduction": "",
     "neutralHello": "Our island welcomes you ",
     "hateHello": "Leave us be ",
     "tradeRequest": "Let's make a deal.",
@@ -105,10 +103,10 @@
       "Hills"
     ],
     "preferredVictoryType": "Cultural",
+    "startIntroPart1": "On behalf of our leader, Kuberniskos Sika, welcome. We have resided here in Anatolia since. 15–14th centuries BC. We were once known as Lukka) and have settled near the Mediterranean Sea",
     "declaringWar": "No land can stand before our arms",
     "attacked": "An eye dor an eye. Now you die!",
     "defeated": "We lay our swords at your feet.",
-    "introduction": "",
     "neutralHello": "We greet you in the name of peace.",
     "hateHello": "We are much more cultured than you.",
     "tradeRequest": "Let's make a deal.",
@@ -145,6 +143,7 @@
   {
     "name": "Akkadia",
     "leaderName": "Sargon of Akkad",
+    "personality": "Sargon of Akkad",
     "adjective": [
       "Akkadian"
     ],
@@ -152,10 +151,10 @@
       "Grassland"
     ],
     "preferredVictoryType": "Diplomatic",
+    "startIntroPart1": "The Akkadians greet you. We are a kingdom established around 2300 BCE. Many recognize us as the first empire in world history. We have had many long-lived city-states spread throughout Mesopotamia.",
     "declaringWar": "We will tear out thy foundations and destroy thy progeny ",
     "attacked": "You dare besiege us! We will go forth to battle and defeat you!",
     "defeated": "We bow to thee who has destroyed our vast army.",
-    "introduction": "",
     "neutralHello": "Our greatness will not compare with you but welcome.",
     "hateHello": "Fear our might and power!",
     "tradeRequest": "Let's make a deal.",
@@ -199,7 +198,7 @@
       "Plains"
     ],
     "preferredVictoryType": "Domination",
-    "personality": "King Iamani",
+    "personality": "King Iamani of Ashdod",
     "startIntroPart1": "Greetings from King Iamani of Ashdod. We Philistines originated from Greek migrant groups of the Aegean civilization. From roughly 1200 BC onwards, we settled in the area and gradually intermixed with the indigenous Canaanite population. Our confederation stretched along the Canaanite coast from Arish in the Sinai Peninsula to the Yarkon River running through Tel Aviv, and as far inland as Ekron and Gath.",
     "startIntroPart2": "Can you spread our presence far outside of our pentapolis?",
     "declaringWar": "We will bring you to your knees!",
@@ -219,7 +218,7 @@
       249,
       255
     ],
-    "favoredReligion": "Judiasm",
+    "favoredReligion": "Judaism",
     "uniqueName": "Giants",
     "cities": [
       "Ashdod",
