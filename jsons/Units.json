@@ -21,11 +21,11 @@
     "requiredTech": "Trapping",
     "obsoleteTech": "Acoustics",
     "uniques": [
+      "Triggers a [Trader Contact] event <when adjacent to a [Foreign] unit>",
       "Uncapturable",
       "Can explore automatically",
       "Ignores terrain cost",
-      "Never appears as a Barbarian unit <hidden from users>",
-      "Triggers a [Trader Contact] event <upon staying adjacent to a [Foreign] unit>"
+      "Never appears as a Barbarian unit <hidden from users>"
     ],
     "promotions": [
       "Trade Contact",

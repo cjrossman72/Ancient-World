@@ -7,8 +7,8 @@
       {
         "text": "Trade for 3 [Horses]",
         "uniques": [
-          "Provides [3] [Horses] <hidden from users>",
-          "Unavailable <before discovering [Animal Husbandry]> <hidden from users>",
+          "Provides [3] [Horses]",
+          "Unavailable <before discovering [Animal Husbandry]>",
           "Unavailable <for units with [[Trade Contact] [Trade Horses]]> <hidden from users>",
           "[This Unit] gains the [[Trade Contact] [Trade Horses]] promotion <hidden from users>"
         ]
