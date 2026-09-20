@@ -1,19 +1,53 @@
 [
   {
     "name": "Trader Contact",
-    "text": "Your Trader met a City-State unit and made 50 Gold by trading!",
-    "presentation": "None",
+    "text": "Choose a trade to make:",
+    "presentation": "Alert",
     "choices": [
       {
-        "text": "Accept Trade Gold"
+        "text": "Trade for 3 [Horses]",
+        "uniques": [
+          "Provides [3] [Horses] <hidden from users>",
+          "Unavailable <before discovering [Animal Husbandry]> <hidden from users>",
+          "Unavailable <for units with [[Trade Contact] [Trade Horses]]> <hidden from users>",
+          "[This Unit] gains the [[Trade Contact] [Trade Horses]] promotion <hidden from users>"
+        ]
+      },
+      {
+        "text": "Trade for 3 [Iron]",
+        "uniques": [
+          "Provides [3] [Iron] <hidden from users>",
+          "Unavailable <before discovering [Bronze Working]> <hidden from users>",
+          "Unavailable <for units with [[Trade Contact] [Trade Iron]]> <hidden from users>",
+          "[This Unit] gains the [[Trade Contact] [Trade Iron]] promotion <hidden from users>"
+        ]
+      },
+      {
+        "text": "Trade for gold",
+        "uniques": [
+          "Gain [50]-[100] [Gold] <(modified by game speed)> <hidden from users>",
+          "Unavailable <for units with [[Trade Contact] [Trade Gold]]> <hidden from users>",
+          "[This Unit] gains the [[Trade Contact] [Trade Gold]] promotion <hidden from users>"
+        ]
+      },
+      {
+        "text": "Learn about their society",
+        "uniques": [
+          "Free Social Policy <hidden from users>",
+          "Unavailable <for units with [[Trade Contact] [Trade Policy]]> <hidden from users>",
+          "[This Unit] gains the [[Trade Contact] [Trade Policy]] promotion <hidden from users>"
+        ]
+      },
+      {
+        "text": "Learn a technology which will consume unit",
+        "uniques": [
+          "Free Technology <after which this unit is consumed> <hidden from users>",
+          "Unavailable <for units without [[Trade Contact] [Trade Horses]]> <hidden from users>",
+          "Unavailable <for units without [[Trade Contact] [Trade Iron]]> <hidden from users>",
+          "Unavailable <for units without [[Trade Contact] [Trade Gold]]> <hidden from users>",
+          "Unavailable <for units without [[Trade Contact] [Trade Policy]]> <hidden from users>"
+        ]
       }
-    ],
-    "uniques": [
-      "Gain [50] [Gold]",
-      "[Neutral] gains the [Met Trader] promotion"
-    ],
-    "conditionals": [
-      "Only available if [Neutral] does not have the [Met Trader] promotion"
     ]
   }
 ]

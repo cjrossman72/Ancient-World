@@ -1,9 +1,44 @@
 [
   {
-    "name": "Met Trader",
-    "unitTypes": [
-      "Civilian",
-      "Military"
+    "name": "Trade Contact",
+    "uniques": [
+      "Triggers a [Trader Contact] event <when adjacent to a [Neutral] unit <every [5] turns> <hidden from users>"
+    ]
+  },
+  {
+    "name": "[Trade Contact] [Trade Horses]",
+    "prerequisites": [
+      "Trade Contact"
+    ],
+    "uniques": [
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "[Trade Contact] [Trade Iron]",
+    "prerequisites": [
+      "Trade Contact"
+    ],
+    "uniques": [
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "[Trade Contact] [Trade Gold]",
+    "prerequisites": [
+      "Trade Contact"
+    ],
+    "uniques": [
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "[Trade Contact] [Trade Policy]",
+    "prerequisites": [
+      "Trade Contact"
+    ],
+    "uniques": [
+      "Will not be displayed in Civilopedia"
     ]
   }
 ]

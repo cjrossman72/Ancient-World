@@ -15,15 +15,20 @@
   {
     "name": "Trader",
     "unitType": "Civilian",
-    "movement": 4,
+    "movement": 3,
+    "strength": 12,
     "cost": 150,
     "requiredTech": "Trapping",
     "obsoleteTech": "Acoustics",
     "uniques": [
       "Uncapturable",
-      "Triggers a [Trader Contact] event <when adjacent to a [Neutral] unit>\n",
       "Can explore automatically",
-      "Ignores terrain cost"
+      "Ignores terrain cost",
+      "Never appears as a Barbarian unit <hidden from users>"
+    ],
+    "promotions": [
+      "Trade Contact",
+      "Ignore terrain cost"
     ]
   }
 ]
