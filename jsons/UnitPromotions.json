@@ -2,7 +2,7 @@
   {
     "name": "Trade Contact",
     "uniques": [
-      "Triggers a [Trader Contact] event <when adjacent to a [Neutral] unit <every [5] turns> <hidden from users>"
+      "Comment [Can trade with allied and neutral civilizations when an countering one of their units]"
     ]
   },
   {

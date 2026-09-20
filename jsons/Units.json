@@ -24,7 +24,9 @@
       "Uncapturable",
       "Can explore automatically",
       "Ignores terrain cost",
-      "Never appears as a Barbarian unit <hidden from users>"
+      "Never appears as a Barbarian unit <hidden from users>",
+      "Triggers a [Trader Contact] event <when adjacent to a [Neutral] unit>",
+      "Triggers a [Trader Contact] event <when adjacent to a [Allied] unit>"
     ],
     "promotions": [
       "Trade Contact",
