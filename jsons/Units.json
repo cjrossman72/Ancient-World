@@ -22,7 +22,7 @@
     "uniques": [
       "Uncapturable",
       "Ignores terrain cost",
-      "Can build [Corral] improvements on tiles"
+      "Can build [Corral] improvements on tiles <with [Horses]>"
     ]
   }
 ]

@@ -36,7 +36,8 @@
   {
     "name": "Corral",
     "terrainsCanBeBuiltOn": [
-      "Horses"
+      "Plains",
+      "Grassland"
     ],
     "turnsToBuild": 3,
     "techRequired": "Animal Husbandry",
