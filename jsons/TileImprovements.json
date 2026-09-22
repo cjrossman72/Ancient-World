@@ -34,17 +34,16 @@
     ]
   },
   {
-    "name": "Wrangle Horses",
+    "name": "Corral",
     "terrainsCanBeBuiltOn": [
-      "Plains",
-      "Grassland",
-      "Hill"
+      "Horses"
     ],
     "turnsToBuild": 3,
     "techRequired": "Animal Husbandry",
     "uniques": [
       "Can be built outside your borders",
-      "Provides [2] Horses"
+      "Provides [2] Horses",
+      "Only downloadable by [Wrangler]"
     ]
   }
 ]

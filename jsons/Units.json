@@ -13,17 +13,6 @@
     ]
   },
   {
-    "name": "Emissary",
-    "unitType": "Civilian",
-    "movement": 2,
-    "cost": 100,
-    "uniques": [
-      "Can move into foreign lands without open borders",
-      "May explore",
-      "Gain a free [Emissary Progression Protocol] [in capital]"
-    ]
-  },
-  {
     "name": "Wrangler",
     "unitType": "Civilian",
     "requiredTech": "Animal Husbandry",
@@ -33,19 +22,7 @@
     "uniques": [
       "Uncapturable",
       "Ignores terrain cost",
-      "Can build [Wrangle Horses] improvements on tiles <with [Horses]>"
+      "Can build [Corral] improvements on tiles"
     ]
-  },
-  {
-    "name": "Worker",
-    "unitType": "Civilian",
-    "movement": 2,
-    "requiredTech": "Agriculture",
-    "uniques": [
-      "Can build [Land] improvements on tiles",
-      "Automation is a primary action",
-      "Can build [Wrangle Horses] improvements on tiles <with [Horses]>"
-    ],
-    "cost": 70
   }
 ]
