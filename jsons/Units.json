@@ -31,8 +31,7 @@
     "movement": 2,
     "cost": 100,
     "uniques": [
-      "<upon ending a turn in a [Plains] tile> <with [Horses]> Provides [1] [Horses] ",
-      "<upon ending a turn in a [Grassland] tile> <with [Horses]> Provides [1] [Horses] ",
+      "Provides [1] [Horses] <upon ending a turn in a [Horses] tile>",
       "Uncapturable",
       "Ignores terrain cost"
     ]
