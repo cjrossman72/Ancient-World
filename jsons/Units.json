@@ -31,9 +31,9 @@
     "movement": 2,
     "cost": 100,
     "uniques": [
-      "Provides [1] [Horses] <upon ending a turn in a [Horses] tile>",
       "Uncapturable",
-      "Ignores terrain cost"
+      "Ignores terrain cost",
+      "Can build [Wrangle Horses] improvements on tiles <with [Horses]>"
     ]
   }
 ]

@@ -32,5 +32,20 @@
       "Removes removable features when built",
       "Will not be replaced by automated units"
     ]
+  },
+  {
+    "name": "Wrangle Horses",
+    "terrainsCanBeBuiltOn": [
+      "Plains",
+      "Grassland",
+      "Hill"
+    ],
+    "turnsToBuild": 3,
+    "techRequired": "Animal Husbandry",
+    "uniques": [
+      "Can be built outside your borders",
+      "Provides [2] Horses",
+      "Remove [Strategic] resources from this tile"
+    ]
   }
 ]
