@@ -26,7 +26,7 @@
   },
   {
     "name": "Wrangler",
-    "unitType": "Military",
+    "unitType": "Civilian",
     "requiredTech": "Animal Husbandry",
     "strength": 8,
     "movement": 2,
