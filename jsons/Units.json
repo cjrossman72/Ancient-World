@@ -13,23 +13,31 @@
     ]
   },
   {
-    "name": "Trader",
+    "name": "Emissary",
     "unitType": "Civilian",
-    "movement": 3,
-    "strength": 12,
-    "cost": 150,
-    "requiredTech": "Trapping",
-    "obsoleteTech": "Acoustics",
+    "movement": 2,
+    "cost": 100,
     "uniques": [
-      "Triggers a [Trader Contact] event <when adjacent to a [Foreign] unit>",
+      "Can move into foreign lands without open borders",
+      "May explore",
+      "UniqueAction [Establish Relations] [Consumes this unit] <when adjacent to a [Foreign] city>",
+      "Gain a free [Emissary Progression Protocol] [in capital]"
+    ]
+  },
+  {
+    "name": "Wrangler",
+    "unitType": "Military",
+    "requiredTech": "Animal Husbandry",
+    "strength": 8,
+    "movement": 2,
+    "cost": 100,
+    "uniques": [
+      "Provides [1] [Horses] <upon ending a turn in a [Plains] tile> <with [Horses]>",
+      "Provides [1] [Horses] <upon ending a turn in a [Grassland] tile> <with [Horses]>",
+      "Remove [Strategic] resources from this tile <upon ending a turn in a [Plains] tile> <with [Horses]>",
+      "Remove [Strategic] resources from this tile <upon ending a turn in a [Geassland] tile> <with [Horses]>",
       "Uncapturable",
-      "Can explore automatically",
-      "Ignores terrain cost",
-      "Never appears as a Barbarian unit <hidden from users>"
-    ],
-    "promotions": [
-      "Trade Contact",
-      "Ignore terrain cost"
+      "Ignores terrain cost"
     ]
   }
 ]
