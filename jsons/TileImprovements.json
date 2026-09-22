@@ -43,8 +43,7 @@
     "techRequired": "Animal Husbandry",
     "uniques": [
       "Can be built outside your borders",
-      "Provides [2] Horses",
-      "Only downloadable by [Wrangler]"
+      "Gain control over [Horses] tiles in a [1]-tile radius"
     ]
   }
 ]
