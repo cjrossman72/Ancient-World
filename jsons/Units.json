@@ -20,7 +20,6 @@
     "uniques": [
       "Can move into foreign lands without open borders",
       "May explore",
-      "UniqueAction [Establish Relations] [Consumes this unit] <when adjacent to a [Foreign] city>",
       "Gain a free [Emissary Progression Protocol] [in capital]"
     ]
   },
@@ -32,10 +31,8 @@
     "movement": 2,
     "cost": 100,
     "uniques": [
-      "Provides [1] [Horses] <upon ending a turn in a [Plains] tile> <with [Horses]>",
-      "Provides [1] [Horses] <upon ending a turn in a [Grassland] tile> <with [Horses]>",
-      "Remove [Strategic] resources from this tile <upon ending a turn in a [Plains] tile> <with [Horses]>",
-      "Remove [Strategic] resources from this tile <upon ending a turn in a [Geassland] tile> <with [Horses]>",
+      "<upon ending a turn in a [Plains] tile> <with [Horses]> Provides [1] [Horses] ",
+      "<upon ending a turn in a [Grassland] tile> <with [Horses]> Provides [1] [Horses] ",
       "Uncapturable",
       "Ignores terrain cost"
     ]
