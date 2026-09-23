@@ -1,6 +1,6 @@
 [
   {
-    "name": "Fleet Admiral",
+    "name": "Fleet_Admiral",
     "unitType": "Civilian Water",
     "movement": 8,
     "uniques": [
