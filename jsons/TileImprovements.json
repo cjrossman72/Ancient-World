@@ -19,7 +19,7 @@
     ]
   },
   {
-    "name": "Naval_Base",
+    "name": "Naval Base",
     "terrainsCanBeBuiltOn": [
       "Coast"
     ],
@@ -43,7 +43,8 @@
     "techRequired": "Animal Husbandry",
     "uniques": [
       "Can be built outside your borders",
-      "Gain control over [Horses] tiles in a [1]-tile radius"
+      "Gain control over [Horses] tiles in a [1]-tile radius",
+      "Can only be build on [Horses] tiles"
     ]
   }
 ]
