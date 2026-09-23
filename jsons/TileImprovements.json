@@ -19,7 +19,7 @@
     ]
   },
   {
-    "name": "Naval Base",
+    "name": "Naval_Base",
     "terrainsCanBeBuiltOn": [
       "Coast"
     ],
