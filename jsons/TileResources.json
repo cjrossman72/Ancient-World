@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Wild Horses",
+    "resourceType": "Luxary",
+    "revealedBy": "Animal Husbandry",
+    "terrainsCanBeFoundOn": [
+      "Plains",
+      "Grassland",
+      "Hill"
+    ],
+    "production": 1,
+    "improvement": "Corral",
+    "improvementStats": {
+      "production": 1
+    },
+    "uniques": [
+      "Generated with weight [100] <in [{Featureless} {Grassland}] tiles>",
+      "Generated with weight [100] <in [{Featureless} {Plains}] tiles>"
+    ]
+  }
+]
