@@ -45,7 +45,8 @@
     "uniques": [
       "Can be built outside your borders",
       "Can only be built on [Wild Horses] tiles",
-      "Provides [2] [Horses]"
+      "Provides [2] [Horses]",
+      "Only available for [Wrangler] units"
     ]
   }
 ]
