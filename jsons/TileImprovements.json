@@ -45,7 +45,8 @@
     "uniques": [
       "Can be built outside your borders",
       "Gain control over [all] tiles in a [1]-tile radius",
-      "Can only be build on [Horses] tiles"
+      "Can only be build on [Horses] tiles",
+      "Provides [2] [Horses]"
     ]
   }
 ]
