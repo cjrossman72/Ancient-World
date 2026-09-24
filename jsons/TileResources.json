@@ -1,21 +1,22 @@
 [
   {
     "name": "Wild Horses",
-    "resourceType": "Luxary",
-    "revealedBy": "Animal Husbandry",
+    "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
       "Plains",
       "Grassland",
       "Hill"
     ],
-    "production": 1,
+    "production": 2,
     "improvement": "Corral",
     "improvementStats": {
-      "production": 1
+      "production": 2
     },
     "uniques": [
-      "Generated with weight [100] <in [{Featureless} {Grassland}] tiles>",
-      "Generated with weight [100] <in [{Featureless} {Plains}] tiles>"
+      "Generated with weight [35] <in [Plains] Regions>",
+      "Generated with weight [15] <in [Hybrid] Regions>",
+      "Generated near City States with weight [10]",
+      "Doesn't generate naturally <in [{Grassland} {Fresh Water}] tiles>"
     ]
   }
 ]
