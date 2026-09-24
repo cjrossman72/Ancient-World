@@ -1,6 +1,6 @@
 [
   {
-    "name": "Fleet_Admiral",
+    "name": "Fleet Admiral",
     "unitType": "Civilian Water",
     "movement": 8,
     "uniques": [
@@ -22,7 +22,7 @@
     "uniques": [
       "Uncapturable",
       "Ignores terrain cost",
-      "Can instantly construct a [Corral] improvement"
+      "\"Can build [Corral] improvements on tiles"
     ]
   }
 ]

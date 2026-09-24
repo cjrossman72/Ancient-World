@@ -37,14 +37,15 @@
     "name": "Corral",
     "terrainsCanBeBuiltOn": [
       "Plains",
-      "Grassland"
+      "Grassland",
+      "Hill"
     ],
     "turnsToBuild": 3,
     "techRequired": "Animal Husbandry",
     "uniques": [
       "Can be built outside your borders",
-      "Provides [2] [Horses]",
-      "Can only be built on [Horses] tiles"
+      "Gain control over [all] tiles in a [1]-tile radius",
+      "Can only be build on [Horses] tiles"
     ]
   }
 ]
