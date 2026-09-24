@@ -39,7 +39,7 @@ BuildingIcons/Smokehouse
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Naval_Base
+BuildingIcons/Naval Base
   rotate: false
   xy: 0, 100
   size: 100, 100
@@ -53,7 +53,7 @@ UnitIcons/Wrangler
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Fleet_Admiral
+UnitIcons/Fleet Admiral
   rotate: false
   xy: 200, 100
   size: 100, 100
@@ -67,7 +67,7 @@ TileImprovements/Corral
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileResources/Wild_Horses
+TileResources/Wild Horses
   rotate: false
   xy: 400, 100
   size: 100, 100
