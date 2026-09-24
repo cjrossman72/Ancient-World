@@ -60,3 +60,17 @@ UnitIcons/Fleet_Admiral
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileImprovements/Corral
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileResources/Wild_Horses
+  rotate: false
+  xy: 400, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
