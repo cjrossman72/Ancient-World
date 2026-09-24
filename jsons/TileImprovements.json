@@ -44,10 +44,8 @@
     "techRequired": "Animal Husbandry",
     "uniques": [
       "Can be built outside your borders",
-      "Gain control over [all] tiles in a [1]-tile radius",
       "Can only be built on [Wild Horses] tiles",
-      "Provides [2] [Horses]",
-      "Unbuildable"
+      "Provides [2] [Horses]"
     ]
   }
 ]
