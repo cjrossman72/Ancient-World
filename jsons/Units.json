@@ -22,6 +22,7 @@
     "uniques": [
       "Uncapturable",
       "Ignores terrain cost",
+      "Never appears as a Barbarian unit",
       "Can build [Corral] improvements on tiles <after which this unit is consumed>"
     ]
   }
