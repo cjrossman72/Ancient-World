@@ -63,5 +63,19 @@
     "hurryCostModifier": 50,
     "maintenance": 1,
     "requiredTech": "Theology"
+  },
+  {
+    "name": "Mineral Refinery",
+    "requiredBuilding": "Forge",
+    "requiredNearbyImprovedResources": ["Iron"],
+    "uniques": [
+      "[+2 Production] from [Iron] tiles [in this city]",
+      "Provides [3] [Iron]",
+    ],
+    "production": 2,
+    "gold": 2,
+    "hurryCostModifier": 50,
+    "maintenance": 1,
+    "requiredTech": "Metallurgy"
   }
 ]
