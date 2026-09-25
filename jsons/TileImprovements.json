@@ -47,7 +47,8 @@
       "Can only be built on [Wild Horses] tiles",
       "Gain control over [Corral] tiles in a [2]-tile radius",
       "Provides [2] [Horses]",
-      "Only available for [Wrangler] units"
+      "Only available for [Wrangler] units",
+      "Unpillagable"
     ]
   }
 ]
