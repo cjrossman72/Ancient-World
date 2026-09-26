@@ -22,8 +22,23 @@
     "uniques": [
       "Uncapturable",
       "Ignores terrain cost",
-      "Never appears as a Barbarian unit",
-      "Can instantly construct a [Corral] improvement <by consuming this unit>"
+      "\"Can build [Corral] improvements on tiles"
     ]
+  },
+  {
+    "name": "Voyager",
+    "unitType": "Melee Water",
+    "movement": 4,
+    "strength": 10,
+    "cost": 60,
+    "requiredTech": "Optics",
+    "uniques": [
+      "Cannot enter ocean tiles",
+      "Never appears as a Barbarian unit",
+      "Can carry [1] [Civilian] units"
+    ],
+    "upgradesTo": "Caravel",
+    "obsoleteTech": "Astronomy",
+    "attackSound": "nonmetalhit"
   }
 ]
