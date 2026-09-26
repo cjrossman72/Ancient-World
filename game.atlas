@@ -1,6 +1,6 @@
 
 game.png
-size: 512, 256
+size: 512, 360
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -70,6 +70,13 @@ ImprovementIcons/Corral
 ResourceIcons/Wild Horses
   rotate: false
   xy: 400, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Voyager
+  rotate: false
+  xy: 0, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
